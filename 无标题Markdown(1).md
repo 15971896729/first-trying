@@ -20,4 +20,4 @@ b.文件列表及其相关说明
 
 
 c.例程运行及其相关结果
-![image](C:\Users\Tuice\Desktop\example.jpg)
+![image](\..\example.jpg)
